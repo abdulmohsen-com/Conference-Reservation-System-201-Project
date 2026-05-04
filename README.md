@@ -1,0 +1,1 @@
+As a part of the designated coursework, I was requested to create a conference seat reservation system using Java. Object-Oriented Programming, Exception Handling, and Graphical User Interfaces were required to implement this project.
