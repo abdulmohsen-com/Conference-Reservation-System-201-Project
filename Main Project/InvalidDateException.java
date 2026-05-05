@@ -1,5 +1,3 @@
-//Name: Abdulmohsen AlGhanim	ID: 2231118745
-
 public class InvalidDateException extends Exception {
 	
 	public InvalidDateException() {

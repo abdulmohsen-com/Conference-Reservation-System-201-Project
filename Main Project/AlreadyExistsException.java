@@ -1,5 +1,3 @@
-//Name: Abdulmohsen AlGhanim	ID: 2231118745
-
 public class AlreadyExistsException extends Exception {
 	
 	public AlreadyExistsException() {

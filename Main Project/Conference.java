@@ -1,5 +1,3 @@
-//Name: Abdulmohsen AlGhanim	ID: 2231118745
-
 import java.util.ArrayList;
 
 public class Conference {
